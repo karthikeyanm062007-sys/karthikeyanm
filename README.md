@@ -28,7 +28,7 @@
 
 <br><br>
 
-📄 **[View Resume](file:///C:/Users/ashwi/Downloads/My%20Resume.pdf.pdf)**
+📄 **[View Resume](file:///C:/Users/ashwi/Downloads/My%20Resume.pdf)**
 
 ---
 
