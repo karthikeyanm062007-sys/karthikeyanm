@@ -4,7 +4,7 @@
 
 ### 💻 Developer • 🤖 AI/ML • 🚀 Hackathon Builder
 
-<img src="./assets/hologram.png" width="280"/>
+<img src="./assets/image.png" width="280"/>
 
 > Building ideas into real-world solutions.
 
